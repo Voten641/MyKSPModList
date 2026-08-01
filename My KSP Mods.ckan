@@ -4,7 +4,7 @@
     "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": "shrek",
-    "version": "2026.07.28.12.24.06",
+    "version": "2026.08.01.11.01.01",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -42,11 +42,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ContractConfigurator",
+            "name": "KSPBurst-Lite",
             "suppress_recommendations": true
         },
         {
-            "name": "KSPBurst-Lite",
+            "name": "ContractConfigurator",
             "suppress_recommendations": true
         },
         {
@@ -246,6 +246,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "DatedQuickSaves",
+            "suppress_recommendations": true
+        },
+        {
             "name": "DE-IVAExtension",
             "suppress_recommendations": true
         },
@@ -258,11 +262,15 @@
             "suppress_recommendations": true
         },
         {
-            "name": "EasyVesselSwitch",
+            "name": "EnvironmentalVisualEnhancements",
             "suppress_recommendations": true
         },
         {
-            "name": "EnvironmentalVisualEnhancements",
+            "name": "ExtraPlanetaryLaunchpads",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FinalFrontier",
             "suppress_recommendations": true
         },
         {
@@ -278,11 +286,31 @@
             "suppress_recommendations": true
         },
         {
+            "name": "HeatControl",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "InfernalRoboticsRealismOverhaul",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KAS",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KerbalEngineerRedux",
             "suppress_recommendations": true
         },
         {
+            "name": "KIS",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalStats",
             "suppress_recommendations": true
         },
         {
@@ -351,6 +379,10 @@
         },
         {
             "name": "ParallaxContinued-Lifeless-Eve-Patch",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PatchedConicFixes",
             "suppress_recommendations": true
         },
         {
@@ -450,6 +482,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-07-28T12:24:06.356254Z",
+    "release_date": "2026-08-01T11:01:01.981467Z",
     "kind": "metapackage"
 }
